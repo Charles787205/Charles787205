@@ -37,20 +37,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-delta-lyart.vercel.app/api?username=Charles787205&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-delta-lyart.vercel.app/api/top-langs/?username=Charles787205&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Charles787205&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div >

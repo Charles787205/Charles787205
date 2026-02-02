@@ -48,7 +48,7 @@ An enhanced LSTM neural network with **ELU activation** for accurate stock marke
 
 **Tech Stack**: Python, PyTorch, FastAPI, Next.js 15, yfinance, ApexCharts
 
-### 🏠 [SmartHome Flutter Controller](https://github.com/Charles787205/SmartHome-Flutter.git)
+### 🏠 [SmartHome Mobile Controller](https://github.com/Charles787205/SmartHome-Flutter.git)
 A modern **Flutter** mobile application for remotely controlling GPIO pins on ESP32 devices. Features automatic device discovery via mDNS, real-time switch control, multi-device management, and beautiful Material Design 3 UI. Perfect for IoT enthusiasts wanting seamless smart home control.
 
 **Tech Stack**: Flutter, ESP32, Arduino, Material Design 3, mDNS
@@ -57,6 +57,11 @@ A modern **Flutter** mobile application for remotely controlling GPIO pins on ES
 A powerful **Chrome extension** that intelligently automates the processing of failed delivery parcels in the Lazada Logistics system. Features smart monitoring with real-time parcel scanning detection, automated actions with one-click edit activation, and intelligent condition evaluation. Significantly reduces manual work and processing time for logistics operations.
 
 **Tech Stack**: JavaScript, Chrome Extension API, DOM Manipulation, Automation
+
+### 📚 [BookHub](https://github.com/Charles787205/bookhub-flutter.git)
+A comprehensive **Flutter** library management application featuring secure user authentication, book discovery powered by Google Books API, and complete library management system. Users can search millions of books, borrow with customizable durations, track reading history, and manage favorites. Built with Material Design 3 for an intuitive user experience and Provider for efficient state management.
+
+**Tech Stack**: Flutter, Dart, Provider, Google Books API, Material Design 3
 
 ## 🏆 GitHub Trophies
 

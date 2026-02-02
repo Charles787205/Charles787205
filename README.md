@@ -39,22 +39,22 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Charles787205&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<div >
+  <img src="https://github-readme-stats-wine-five.vercel.app/api?username=Charles787205&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Charles787205&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<div >
+  <img src="https://github-readme-stats-wine-five.vercel.app/api/top-langs/?username=Charles787205&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Charles787205&theme=radical&hide_border=true" alt="GitHub Streak" />
+<div >
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Charles787205&theme=dark" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charles787205&theme=radical&no-frame=true&column=3&row=2" alt="GitHub Trophies" />
+<div >
+  <img src="https://github-trophies.vercel.app/?username=Charles787205&theme=darkhub" alt="GitHub Trophies" />
 </div>
 
 ## 🔥 Recent Activity
@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles787205&bg_color=141321&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles787205&bg_color=141321&color=A855F7&line=FFFFFF&point=808080&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 💡 Featured Projects

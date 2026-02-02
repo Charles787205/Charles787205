@@ -74,20 +74,6 @@ A comprehensive implementation of fundamental **numerical analysis algorithms** 
   <img src="https://github-trophies.vercel.app/?username=Charles787205&theme=darkhub" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Recent Activity
-
-🚀 **Latest Updates:**
-- 📊 Enhanced LSTM stock prediction model with improved accuracy
-- 🏠 Added multi-device support to SmartHome Flutter app
-- 🚚 Implemented real-time analytics for LM-Dashboard
-- 🔧 Optimized database queries for better performance
-- 📱 Updated Material Design 3 components in mobile apps
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles787205&bg_color=141321&color=A855F7&line=FFFFFF&point=808080&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
 
 

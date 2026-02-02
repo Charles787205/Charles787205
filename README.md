@@ -68,6 +68,11 @@ A comprehensive implementation of fundamental **numerical analysis algorithms** 
 
 **Tech Stack**: Python, Numerical Computing, Mathematical Algorithms, Terminal Interface
 
+### 📋 [DynaForm - Dynamic Form Builder](https://github.com/Charles787205/DynaForm.git)
+A modern **HTMX-powered** dynamic form builder web application featuring drag & drop interface, multiple field types, and real-time interactions without complex JavaScript frameworks. Includes Google OAuth authentication, response management, form templates, and hypermedia-driven architecture. Built with server-side rendering for optimal performance and SEO while maintaining SPA-like user experience.
+
+**Tech Stack**: HTMX, Node.js, Express.js, MongoDB, EJS, Tailwind CSS, Google OAuth
+
 ## 🏆 GitHub Trophies
 
 <div >

@@ -35,6 +35,29 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
+
+## 💡 Featured Projects
+
+### 🚚 [LM-Dashboard](https://github.com/Charles787205/LM-Dashboard.git)
+A comprehensive logistics management dashboard built with **Next.js** and **Laravel**. Users can input delivery metrics (failed, delivered, etc.) for different hubs and track performance either per hub or across all hubs. Features real-time analytics and intuitive data visualization for logistics operations.
+
+**Tech Stack**: Next.js, Laravel, MySQL
+
+### 📈 [Exponential LSTM Stock Forecasting](https://github.com/Charles787205/Exponential-Long-Short-Term-Memory.git)
+An enhanced LSTM neural network with **ELU activation** for accurate stock market prediction. This full-stack application combines cutting-edge deep learning with modern web technologies, featuring model training pipelines, real-time predictions, and interactive visualizations comparing baseline LSTM vs enhanced LSTM-ELU performance.
+
+**Tech Stack**: Python, PyTorch, FastAPI, Next.js 15, yfinance, ApexCharts
+
+### 🏠 [SmartHome Flutter Controller](https://github.com/Charles787205/SmartHome-Flutter.git)
+A modern **Flutter** mobile application for remotely controlling GPIO pins on ESP32 devices. Features automatic device discovery via mDNS, real-time switch control, multi-device management, and beautiful Material Design 3 UI. Perfect for IoT enthusiasts wanting seamless smart home control.
+
+**Tech Stack**: Flutter, ESP32, Arduino, Material Design 3, mDNS
+
+### ⚡ [LEX Redelivery Extension](https://github.com/Charles787205/LEX-Redelivery-Extension.git)
+A powerful **Chrome extension** that intelligently automates the processing of failed delivery parcels in the Lazada Logistics system. Features smart monitoring with real-time parcel scanning detection, automated actions with one-click edit activation, and intelligent condition evaluation. Significantly reduces manual work and processing time for logistics operations.
+
+**Tech Stack**: JavaScript, Chrome Extension API, DOM Manipulation, Automation
+
 ## 🏆 GitHub Trophies
 
 <div >
@@ -56,22 +79,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charles787205&bg_color=141321&color=A855F7&line=FFFFFF&point=808080&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 💡 Featured Projects
-
-### 🚚 [LM-Dashboard](https://github.com/Charles787205/LM-Dashboard.git)
-A comprehensive logistics management dashboard built with **Next.js** and **Laravel**. Users can input delivery metrics (failed, delivered, etc.) for different hubs and track performance either per hub or across all hubs. Features real-time analytics and intuitive data visualization for logistics operations.
-
-**Tech Stack**: Next.js, Laravel, MySQL
-
-### 📈 [Exponential LSTM Stock Forecasting](https://github.com/Charles787205/Exponential-Long-Short-Term-Memory.git)
-An enhanced LSTM neural network with **ELU activation** for accurate stock market prediction. This full-stack application combines cutting-edge deep learning with modern web technologies, featuring model training pipelines, real-time predictions, and interactive visualizations comparing baseline LSTM vs enhanced LSTM-ELU performance.
-
-**Tech Stack**: Python, PyTorch, FastAPI, Next.js 15, yfinance, ApexCharts
-
-### 🏠 [SmartHome Flutter Controller](https://github.com/Charles787205/SmartHome-Flutter.git)
-A modern **Flutter** mobile application for remotely controlling GPIO pins on ESP32 devices. Features automatic device discovery via mDNS, real-time switch control, multi-device management, and beautiful Material Design 3 UI. Perfect for IoT enthusiasts wanting seamless smart home control.
-
-**Tech Stack**: Flutter, ESP32, Arduino, Material Design 3, mDNS
 
 
 ## 🤝 Let's Connect!

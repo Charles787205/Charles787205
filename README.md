@@ -39,16 +39,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ## 📊 GitHub Stats
 
-<div >
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charles787205&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats-delta-lyart.vercel.app/api?username=Charles787205&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div >
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Charles787205&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats-delta-lyart.vercel.app/api/top-langs/?username=Charles787205&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-<div >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Charles787205&theme=dark" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Charles787205&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -59,8 +59,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+🚀 **Latest Updates:**
+- 📊 Enhanced LSTM stock prediction model with improved accuracy
+- 🏠 Added multi-device support to SmartHome Flutter app
+- 🚚 Implemented real-time analytics for LM-Dashboard
+- 🔧 Optimized database queries for better performance
+- 📱 Updated Material Design 3 components in mobile apps
 
 ## 📈 Contribution Graph
 

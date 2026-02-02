@@ -58,7 +58,7 @@ A powerful **Chrome extension** that intelligently automates the processing of f
 
 **Tech Stack**: JavaScript, Chrome Extension API, DOM Manipulation, Automation
 
-### 📚 [BookHub](https://github.com/Charles787205/bookhub-flutter.git)
+### <img src="https://github.com/Charles787205/bookhub-flutter/blob/main/images/bookhub.png" width="20" height="20"/> [BookHub](https://github.com/Charles787205/bookhub-flutter.git)
 A comprehensive **Flutter** library management application featuring secure user authentication, book discovery powered by Google Books API, and complete library management system. Users can search millions of books, borrow with customizable durations, track reading history, and manage favorites. Built with Material Design 3 for an intuitive user experience and Provider for efficient state management.
 
 **Tech Stack**: Flutter, Dart, Provider, Google Books API, Material Design 3

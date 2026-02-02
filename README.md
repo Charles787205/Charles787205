@@ -63,6 +63,11 @@ A comprehensive **Flutter** library management application featuring secure user
 
 **Tech Stack**: Flutter, Dart, Provider, Google Books API, Material Design 3
 
+### 🔢 [BSM Project - Numerical Analysis](https://github.com/Charles787205/BSMProject.git)
+A comprehensive implementation of fundamental **numerical analysis algorithms** with an interactive terminal-based interface. Features linear system solvers (Gaussian Elimination, Gauss-Jordan, GEMPS, MOSS), root finding methods (Bisection, Newton-Raphson, Fixed-Point Iteration), and numerical integration techniques (Trapezoidal Rule, Romberg's Method). Built for educational purposes with robust implementations of classical computational mathematics methods.
+
+**Tech Stack**: Python, Numerical Computing, Mathematical Algorithms, Terminal Interface
+
 ## 🏆 GitHub Trophies
 
 <div >

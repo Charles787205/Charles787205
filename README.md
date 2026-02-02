@@ -40,11 +40,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 ## 📊 GitHub Stats
 
 <div >
-  <img src="https://github-readme-stats-wine-five.vercel.app/api?username=Charles787205&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Charles787205&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div >
-  <img src="https://github-readme-stats-wine-five.vercel.app/api/top-langs/?username=Charles787205&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Charles787205&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div >

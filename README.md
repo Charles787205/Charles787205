@@ -7,9 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm always learning and expanding my skillset
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about anything tech-related
-- 📫 How to reach me: [Add your preferred contact method]
-- ⚡ Fun fact: [Add something interesting about yourself]
+
 
 ## 🛠️ Technologies & Tools
 

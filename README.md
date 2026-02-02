@@ -75,18 +75,6 @@ A modern **Flutter** mobile application for remotely controlling GPIO pins on ES
 
 **Tech Stack**: Flutter, ESP32, Arduino, Material Design 3, mDNS
 
-## 🎯 Current Goals
-
-- [ ] Learn a new programming language
-- [ ] Contribute to major open source projects
-- [ ] Build a SaaS application
-- [ ] Write technical blog posts
-- [ ] Mentor junior developers
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect!
 
